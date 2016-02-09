@@ -1,0 +1,5 @@
+# SQL THINGS
+
+## SQL Server
+
+- INTERSECT
